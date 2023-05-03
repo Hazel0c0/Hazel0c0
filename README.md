@@ -1,7 +1,7 @@
 
 <div align=center>
   
-<h3>🐰 Tech Stack 🐰</h3>
+<h3>🐰 Stack 🐰</h3>
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
