@@ -2,6 +2,9 @@
 <div align=center>
   
 <h3>🐰 Stack 🐰</h3>
+  
+![D93E5336-3C49-4B2F-9407-1191C6832256](https://user-images.githubusercontent.com/120666603/235904716-0859432f-1b06-484b-afe9-2bfb3e1e5a58.jpeg)
+  
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -18,7 +21,7 @@
 <br/>
 <br><br><br>
 
-![D93E5336-3C49-4B2F-9407-1191C6832256](https://user-images.githubusercontent.com/120666603/235904716-0859432f-1b06-484b-afe9-2bfb3e1e5a58.jpeg)
+
   
 <br><br>
  
