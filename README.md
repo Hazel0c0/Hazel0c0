@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <br/><br>
-<br><br><br>
+<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel0c0&layout=compact)
   <br><br/>
