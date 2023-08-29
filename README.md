@@ -20,9 +20,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-
 <br/><br>
-<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel0c0&layout=compact)
   <br><br/>
