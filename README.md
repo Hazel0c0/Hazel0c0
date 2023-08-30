@@ -26,4 +26,6 @@
 ![D93E5336-3C49-4B2F-9407-1191C6832256](https://user-images.githubusercontent.com/120666603/235904716-0859432f-1b06-484b-afe9-2bfb3e1e5a58.jpeg)
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHazel0c0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
