@@ -1,6 +1,4 @@
 <div align=center>
-
-
 <h3>🐰 Stack 🐰</h3>
 
 <br>
